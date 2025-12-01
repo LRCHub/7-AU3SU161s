@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハルハコブネ",
+  "base_artist": "nayuta",
+  "createdAt": "2025-12-01T02:18:37.750202Z",
+  "candidates": [
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "ハルハコブネ",
+      "artist": "nayuta",
+      "has_synced": false,
+      "path": "select/pl_ハルハコブネ_nayuta.txt"
+    }
+  ]
+}
